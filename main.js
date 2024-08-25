@@ -63,7 +63,7 @@ const rtanCrashImage = new Image();
 rtanCrashImage.src = "./images/rtan_crash.png";
 // (8) 장애물
 const obstacle = new Image();
-obstacle.src = "./images/obstacle.png";
+obstacle.src = "./images/obstacle2.png";
 
 /**
  * 게임 시작 화면을 그리는 함수
